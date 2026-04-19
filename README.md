@@ -19,6 +19,9 @@ The runtime demonstrates core OS concepts such as:
 **Name:** Rudra Dhadhal
 **Roll Number:** PES1UG24CS146
 
+**Name:** Dhruv Swatantramath
+**Roll Number:** PES1UG24CS155
+
 ---
 
 ## 3. Features
