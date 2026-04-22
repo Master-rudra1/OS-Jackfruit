@@ -239,9 +239,3 @@ ps -ef | grep "[d]efunct" || echo "no defunct processes"
 This project demonstrates how fundamental Operating Systems concepts can be combined to build a basic container runtime. It provides a deeper understanding of process isolation, memory control, scheduling, and system design.
 
 The focus of this implementation is on clarity and learning rather than production-level completeness.
-
----
-
-## 15. Reflection (Optional but Recommended)
-
-During this project, key challenges included understanding namespace behavior, debugging kernel module interactions, and implementing correct synchronization in the logging system. Overcoming these helped build a strong understanding of both user-space and kernel-space programming.
